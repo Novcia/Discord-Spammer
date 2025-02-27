@@ -1,0 +1,5 @@
+{
+    "channels": ["", ""],
+    "messages": ["", ""],
+    "token_file": "data/tokens.txt"
+}
